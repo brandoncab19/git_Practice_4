@@ -1,1 +1,2 @@
 File created in github aka the remote repository 
+Adding more work from the github. ready to be pulled to local
