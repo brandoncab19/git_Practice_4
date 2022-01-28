@@ -7,6 +7,8 @@ public class hello {
         System.out.println("local repository was pushed to Github remote repository");
         System.out.println("Adding another change");
 
-        // 1/28/22 - another day. writing code
+        // 1/28/22 - another day of writing code
+
+        // code 1
     }
 }
