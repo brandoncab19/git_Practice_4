@@ -6,4 +6,5 @@ public class FeatureB {
 
     // coding 2 done for featureB
 
+    // coding 3 done. feature-B will be deleted
 }
