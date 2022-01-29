@@ -5,5 +5,7 @@ public class FeatureE {
         System.out.println("Feature E has started");
 
         // code 1
+
+        // code 2
     }
 }
